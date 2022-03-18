@@ -17,7 +17,7 @@ feature:
 
 fit:
   lr: 0.00001
-  epochs: 30
+  epochs: 20
   batch_size: 32
   shuffle: True
   validation_split: 0.1
